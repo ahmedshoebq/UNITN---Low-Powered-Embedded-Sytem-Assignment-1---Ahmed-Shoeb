@@ -1,4 +1,4 @@
-# Gesture Recognition — Arduino Nano 33 BLE Sense Rev2
+# Gesture Recognition — Arduino Nano 33 BLE Sense Rev2 (Assignment 1)
 
 ## Student
 Name: Ahmed Shoeb

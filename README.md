@@ -6,7 +6,7 @@ Submission Date: 25 April 2026
 
 ## Hardware
 - Arduino Nano 33 BLE Sense Rev2
-- BMI270 IMU built-in — no external wiring needed
+- BMI270 IMU built-in 
 - Connected via USB only
 
 ## Gesture Classes
